@@ -12,6 +12,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@http": "workspace:*",
     "@wizmacau/openapi": "^4.2.7",
     "@workspace/ui": "workspace:*",
     "lucide-react": "^0.475.0",
